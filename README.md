@@ -1,5 +1,4 @@
 
-
 ## Rafi_Smart_Contract_5
 ### Creating our first wallet at Metamask
 Metamask is a digital wallet that allows you to securely store, manage, and use cryptocurrencies like Ethereum, on your computer or mobile device. It is an extension for web browsers like Google Chrome or Mozilla Firefox that acts as a bridge between the internet and blockchain networks. Metamask makes it easy for users to interact with decentralized applications, also known as dApps, by providing a user-friendly interface for managing cryptocurrency transactions. With Metamask, users can send and receive cryptocurrency, access decentralized exchanges, and participate in blockchain-based applications without needing to have technical knowledge of blockchain technology.<br>
@@ -12,4 +11,8 @@ Metamask is a digital wallet that allows you to securely store, manage, and use 
 ![r5](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/4bb76766-3456-40bf-9560-e0210945ddb8)
 ![r6](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/800c7a25-8486-4bb6-85b4-231f73862b3d)
 ![r7](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/0f9ebcea-c40e-4d6e-be47-32bdf9625d7f)
+![r8](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/ddcfe97c-4cfc-4827-b687-3f5ea25986e9)
+![r11](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/e189d460-d332-4d01-8cf5-1ce7d0bdcff1)
+![r12](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/6d8e67e9-b00c-471a-9595-104dde0891ef)
+![r13](https://github.com/MdRafidulIslam/rafi-smart-contract5/assets/86659473/0e2c06dc-97ae-4748-be43-9042c663cd0f)
 
